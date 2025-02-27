@@ -1,12 +1,12 @@
-## Hi there 👋
+# **FLANZORIA**  
 
-<!--
+## 🚀 À propos  
+Nous sommes un serveur minecraft mini-jeu de la 1.9.4 à la 1.11. **play.flanzoria.fr**
 
-**Here are some ideas to get you started:**
+## 💬 Rejoignez la Communauté  
+- 💻 [Site Web](https://flanzoria.fr)  
+- 💬 [Discord](https://discord.flanzoria.fr)  
+- 🐦 [Twitter](https://twitter.com/flanzoria)  
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 📝 Développeur
+Betterlight - Administrateur et Responsable du pôle développement
