@@ -14,6 +14,6 @@ Les jeux disponible:
 - 🐦 [Twitter](https://twitter.com/hubzonfr)  
 
 ## 📝 Direction de projet
-Betterlight - Administrateur et Responsable du pôle développement
-0hEliott - Administrateur, Game Designer et développeur
-Nytrowear - Responsable modération
+- Betterlight - Administrateur et Responsable du pôle développement
+- 0hEliott - Administrateur, Game Designer et développeur
+- Nytrowear - Responsable modération
